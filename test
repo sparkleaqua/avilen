@@ -1,0 +1,15 @@
+f = open("input.txt", "r")
+print(f.read())
+
+with open("input.txt", "r") as filestream:
+        for line in filestream:
+            currentline = line.split(",")
+           
+m =2
+
+for int(currentline[0]) in f:
+   if(%m ==0)
+       print int(currentline[1]
+    
+    
+  　else print m
